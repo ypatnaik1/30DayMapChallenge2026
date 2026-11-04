@@ -1,0 +1,444 @@
+store_name,city_name,state_id,lat,lng
+Huntington Park,Huntington Park,CA,33.987,-118.225
+Bell,Bell,CA,33.978,-118.187
+Hollywood,Hollywood,CA,34.098,-118.342
+Glendale (Brand & Broadway),Glendale,CA,34.146,-118.255
+Glendale (Harvey & Holly),Glendale,CA,34.149,-118.227
+Alhambra,Alhambra,CA,34.106,-118.134
+South Gate,South Gate,CA,33.953,-118.188
+Monterey Park,Monterey Park,CA,34.036,-118.097
+West Los Angeles,Los Angeles,CA,34.026,-118.394
+Studio City,Los Angeles,CA,34.135,-118.361
+Inglewood,Inglewood,CA,33.946,-118.332
+Pico Rivera,Pico Rivera,CA,34.001,-118.083
+Rosemead,Rosemead,CA,34.084,-118.073
+Burbank,Burbank,CA,34.185,-118.316
+Pasadena,Pasadena,CA,34.15,-118.107
+Downey,Downey,CA,33.936,-118.124
+Westchester,Los Angeles,CA,33.954,-118.397
+Westwood,Los Angeles,CA,34.063,-118.448
+North Hollywood,N. Hollywood,CA,34.178,-118.382
+Temple City,Temple City,CA,34.092,-118.038
+Whittier,Whittier,CA,33.98,-118.05
+Culver City,Marina Del Rey,CA,33.992,-118.446
+Compton,Compton,CA,33.873,-118.248
+El Segundo,El Segundo,CA,33.924,-118.396
+Gardena,Gardena,CA,33.873,-118.307
+Redondo Beach,Redondo Beach,CA,33.892,-118.362
+Tujunga,Tujunga,CA,34.241,-118.266
+Sherman Oaks,Sherman Oaks,CA,34.152,-118.448
+Santa Fe Springs,Santa Fe Springs,CA,33.94,-118.047
+Arcadia,Arcadia,CA,34.145,-118.031
+Norwalk,Norwalk,CA,33.901,-118.082
+Bellflower,Bellflower,CA,33.875,-118.125
+Cerritos,Cerritos,CA,33.887,-118.102
+Carson,Carson,CA,33.846,-118.264
+Monrovia,Monrovia,CA,34.14,-118.011
+Hacienda Heights,Hacienda Heights,CA,34.019,-117.987
+Lakewood,Lakewood,CA,33.861,-118.125
+Torrance,Torrance,CA,33.849,-118.353
+Torrance (Carson St.),Torrance,CA,33.831,-118.288
+Baldwin Park,Baldwin Park,CA,34.068,-117.974
+Panorama City,Panorama City,CA,34.222,-118.431
+Van Nuys,Van Nuys,CA,34.215,-118.448
+Long Beach,Long Beach,CA,33.832,-118.143
+La Puente,La Puente,CA,34.038,-117.952
+Signal Hill,Signal Hill,CA,33.812,-118.183
+La Mirada,La Mirada,CA,33.883,-118.025
+West Covina (San Bernardino Rd.),West Covina,CA,34.09,-117.941
+La Habra,La Habra,CA,33.94,-117.966
+Long Beach (Carson St.),Long Beach,CA,33.831,-118.085
+Torrance (Crenshaw & Lomita),Torrance,CA,33.803,-118.328
+Van Nuys (Balboa),Van Nuys,CA,34.202,-118.501
+Buena Park,Buena Park,CA,33.847,-118.028
+Long Beach (Los Coyotes Diagonal),Long Beach,CA,33.791,-118.14
+City Of Industry,City of Industry,CA,33.99,-117.915
+San Fernando,San Fernando,CA,34.278,-118.453
+Azusa,Azusa,CA,34.118,-117.907
+Northridge (Balboa & Lassen),Northridge,CA,34.25,-118.502
+Woodland Hills,Woodland Hills,CA,34.172,-118.567
+La Habra,La Habra,CA,33.924,-117.924
+West Covina (Garvey Ave.),West Covina,CA,34.071,-117.882
+San Pedro,San Pedro,CA,33.753,-118.309
+Sylmar,Sylmar,CA,34.311,-118.436
+Seal Beach,Seal Beach,CA,33.782,-118.073
+Azusa,Azusa,CA,34.128,-117.886
+Covina,Covina,CA,34.105,-117.873
+Northridge (Tampa Ave.),Northridge,CA,34.231,-118.553
+Long Beach,Long Beach,CA,33.758,-118.111
+Brea,Brea,CA,33.912,-117.889
+Fullerton,Fullerton,CA,33.86,-117.924
+Anaheim,Anaheim,CA,33.825,-117.959
+Anaheim,Anaheim,CA,33.839,-117.941
+Canoga Park,Canoga Park,CA,34.195,-118.606
+Diamond Bar,Diamond Bar,CA,34.001,-117.844
+City Of Industry (Grand & Valley),City of Industry,CA,34.028,-117.835
+Stanton,Stanton,CA,33.775,-117.993
+Westminster,Westminster,CA,33.759,-118.02
+Glendora,Glendora,CA,34.117,-117.829
+Porter Ranch,Porter Ranch,CA,34.276,-118.568
+Placentia,Placentia,CA,33.874,-117.878
+Garden Grove,Garden Grove,CA,33.766,-117.972
+Anaheim,Anaheim,CA,33.819,-117.889
+Huntington Beach II,Huntington Beach,CA,33.73,-117.991
+Yorba Linda,Yorba Linda,CA,33.891,-117.815
+Orange,Orange,CA,33.785,-117.891
+Santa Clarita (Sand Canyon),Santa Clarita,CA,34.424,-118.423
+La Verne,La Verne,CA,34.113,-117.766
+Orange (Tustin & Lincoln),Orange,CA,33.832,-117.836
+Pomona (Garey Ave.),Pomona,CA,34.026,-117.749
+Huntington Beach,Huntington Beach,CA,33.7,-117.989
+Newhall,Newhall,CA,34.377,-118.565
+Anaheim Hills,Anaheim Hills,CA,33.859,-117.791
+Santa Ana (Bristol & Civic Center),Santa Ana,CA,33.752,-117.885
+Pomona (Indian Hill Blvd.),Pomona,CA,34.078,-117.72
+Simi Valley,Simi Valley,CA,34.283,-118.691
+Chino,Chino,CA,33.997,-117.719
+Orange (Chapman & Prospect),Orange,CA,33.788,-117.817
+Santa Clarita (Bouquet Canyon),Santa Clarita,CA,34.425,-118.539
+Santa Ana,Santa Ana,CA,33.761,-117.834
+Costa Mesa,Costa Mesa,CA,33.688,-117.92
+Santa Ana (Macarthur),Santa Ana,CA,33.7,-117.885
+Valencia,Valencia,CA,34.421,-118.583
+Upland,Upland,CA,34.107,-117.686
+Westlake Village,Westlake Village,CA,34.148,-118.797
+Ontario (Mountain Ave.),Ontario,CA,34.033,-117.668
+Costa Mesa,Costa Mesa,CA,33.644,-117.923
+Tustin (District),Tustin,CA,33.695,-117.827
+Tustin,Tustin,CA,33.723,-117.794
+Upland,Upland,CA,34.136,-117.639
+Irvine,Irvine,CA,33.65,-117.841
+Ontario (Vineyard & G St.),Ontario,CA,34.069,-117.612
+Rancho Cucamonga (Foothill & Vineyard),Rancho Cucamonga,CA,34.106,-117.61
+Palmdale,Palmdale,CA,34.579,-118.128
+Corona (Auto Center Dr.),Corona,CA,33.882,-117.614
+Irvine 2 (Great Park),Irvine,CA,33.678,-117.738
+Moorpark,Moorpark,CA,34.28,-118.865
+Ontario (Ontario Mills),Ontario,CA,34.068,-117.557
+Eastvale,Eastvale,CA,33.998,-117.558
+Newbury Park,Newbury Park,CA,34.184,-118.915
+Norco,Norco,CA,33.908,-117.562
+Rancho Cucamonga (Foothill & I-15),Rancho Cucamonga,CA,34.106,-117.53
+Foothill Ranch,Foothill Ranch,CA,33.682,-117.669
+Corona (Ontario Ave. & I-15),Corona,CA,33.844,-117.537
+Laguna Hills (El Toro),Laguna Hills,CA,33.613,-117.708
+Jurupa Valley,Jurupa Valley,CA,34.015,-117.462
+Pedley,Riverside,CA,33.967,-117.466
+Lancaster,Lancaster,CA,34.704,-118.167
+Laguna Niguel (La Paz),Laguna Niguel,CA,33.565,-117.707
+Fontana,Fontana,CA,34.075,-117.435
+Rancho Santa Margarita,Rancho Santa Margarita,CA,33.642,-117.605
+Riverside,Riverside,CA,33.916,-117.442
+Camarillo,Camarillo,CA,34.217,-119.053
+Laguna Niguel (Avery Pkwy.),San Juan Capistrano,CA,33.545,-117.674
+Riverside,Riverside,CA,33.936,-117.404
+Rialto II,Rialto,CA,34.074,-117.371
+Rialto,Rialto,CA,34.134,-117.37
+San Juan Capistrano,San Juan Capistrano,CA,33.5,-117.66
+Rancho Mission Viejo,Rancho Mission Viejo,CA,33.52,-117.619
+Oxnard,Oxnard,CA,34.225,-119.155
+San Bernardino (5th Street),San Bernardino,CA,34.108,-117.3
+Oxnard,Oxnard,CA,34.235,-119.18
+San Clemente,San Clemente,CA,33.437,-117.624
+Hesperia (Main St.),Hesperia,CA,34.427,-117.378
+San Bernardino (Tippecanoe),San Bernardino,CA,34.066,-117.262
+Riverside,Riverside,CA,33.889,-117.273
+Moreno Valley,Moreno Valley,CA,33.942,-117.26
+Lake Elsinore (Dexter),Lake Elsinore,CA,33.693,-117.335
+Redlands,Redlands,CA,34.07,-117.202
+Highland,Highland,CA,34.108,-117.194
+Lake Elsinore,Lake Elsinore,CA,33.664,-117.299
+Perris,Perris,CA,33.801,-117.231
+Ventura,Ventura,CA,34.268,-119.273
+Hesperia (Bear Valley Rd.),Hesperia,CA,34.471,-117.291
+Victorville,Victorville,CA,34.521,-117.322
+Yucaipa,Yucaipa,CA,34.028,-117.117
+Menifee,Menifee,CA,33.681,-117.175
+Murrieta,Murrieta,CA,33.573,-117.179
+Temecula (Jefferson Ave.),Temecula,CA,33.515,-117.159
+Hemet,Hemet,CA,33.747,-117.002
+Beaumont,Beaumont,CA,33.923,-116.948
+Temecula (Highway 79),Temecula,CA,33.476,-117.124
+Lebec (Tejon Ranch),Lebec,CA,34.983,-118.948
+Oceanside,Oceanside,CA,33.204,-117.384
+Oceanside,Oceanside,CA,33.238,-117.299
+Vista,Vista,CA,33.185,-117.285
+Cabazon,Cabazon,CA,33.921,-116.804
+Carlsbad,Carlsbad,CA,33.125,-117.325
+Barstow,Barstow,CA,34.85,-117.082
+San Marcos,San Marcos,CA,33.137,-117.177
+Encinitas,Encinitas,CA,33.047,-117.285
+Escondido,Escondido,CA,33.115,-117.102
+Goleta,Goleta,CA,34.443,-119.791
+Bakersfield (Panama Ln.),Bakersfield,CA,35.296,-119.028
+Carmel Mountain,San Diego,CA,32.982,-117.078
+Bakersfield (Stockdale Hwy),Bakersfield,CA,35.355,-119.058
+Mira Mesa,San Diego,CA,32.918,-117.122
+Poway,Poway,CA,32.939,-117.046
+Bakersfield,Bakersfield,CA,35.383,-119.091
+Pacific Beach,Pacific Beach,CA,32.809,-117.219
+Kearny Mesa,San Diego,CA,32.82,-117.149
+Thousand Palms,Thousand Palms,CA,33.816,-116.401
+Rancho Mirage,Rancho Mirage,CA,33.736,-116.408
+San Diego (Sports Arena Blvd.),San Diego,CA,32.752,-117.205
+Mission Valley,San Diego,CA,32.77,-117.144
+San Diego,San Diego,CA,32.791,-117.1
+Santee,Santee,CA,32.839,-116.994
+El Cajon,El Cajon,CA,32.808,-116.963
+Lemon Grove,Lemon Grove,CA,32.744,-117.043
+La Quinta,La Quinta,CA,33.713,-116.293
+National City,National City,CA,32.676,-117.086
+National City,National City,CA,32.66,-117.107
+Indio II,Indio,CA,33.743,-116.231
+Indio,Indio,CA,33.714,-116.233
+San Diego,San Diego,CA,32.577,-117.081
+Chula Vista II,Chula Vista,CA,32.595,-117.034
+Chula Vista,Chula Vista,CA,32.62,-116.962
+Delano,Delano,CA,35.747,-119.248
+Santa Maria,Santa Maria,CA,34.937,-120.419
+Arroyo Grande,Arroyo Grande,CA,35.127,-120.598
+Tulare,Tulare,CA,36.225,-119.324
+Kettleman City,Kettleman City,CA,35.986,-119.959
+Visalia,Visalia,CA,36.313,-119.314
+Visalia,Visalia,CA,36.357,-119.297
+Atascadero,Atascadero,CA,35.497,-120.684
+Hanford,Hanford,CA,36.321,-119.674
+El Centro,El Centro,CA,32.772,-115.553
+Fresno (2nd Street),Fresno,CA,36.705,-119.77
+Fresno V,Fresno,CA,36.743,-119.7
+Fresno (Blackstone & Ashlan),Fresno,CA,36.796,-119.79
+Clovis,Clovis,CA,36.837,-119.701
+Fresno (Shaw),Fresno,CA,36.809,-119.883
+Fresno (Blackstone & Nees),Fresno,CA,36.852,-119.79
+Las Vegas (Tropicana Ave. & Tee Pee Ln.),Las Vegas,NV,36.101,-115.302
+Las Vegas,Las Vegas,NV,36.07,-115.242
+Las Vegas,Las Vegas,NV,36.145,-115.314
+Henderson,Henderson,NV,35.986,-115.142
+Las Vegas (Blue Diamond Rd.),Las Vegas,NV,36.041,-115.191
+Laughlin,Laughlin,NV,35.159,-114.575
+Las Vegas,Las Vegas,NV,36.086,-115.185
+Las Vegas (Eastern Ave.),Las Vegas,NV,36.021,-115.118
+Las Vegas (Dean Martin & Tropicana),Las Vegas,NV,36.101,-115.182
+Las Vegas (Blvd),Las Vegas,NV,36.106,-115.172
+Lake Havasu City,Lake Havasu City,AZ,34.475,-114.348
+Las Vegas,Las Vegas,NV,36.117,-115.17
+Las Vegas (Lake Mead Blvd.),Las Vegas,NV,36.196,-115.246
+Las Vegas (Sahara),Las Vegas,NV,36.145,-115.181
+Las Vegas (Maryland Pkwy & Tropicana),Las Vegas,NV,36.104,-115.138
+Madera,Madera,CA,36.974,-120.078
+Las Vegas (Centennial),Las Vegas,NV,36.265,-115.257
+Las Vegas,Las Vegas,NV,36.116,-115.091
+Henderson,Henderson,NV,36.063,-115.034
+Yuma,Yuma,AZ,32.699,-114.601
+Las Vegas (Nellis),Las Vegas,NV,36.161,-115.063
+North Las Vegas,North Las Vegas,NV,36.24,-115.111
+North Las Vegas,North Las Vegas,NV,36.285,-115.134
+Kingman,Kingman,AZ,35.218,-114.037
+Merced,Merced,CA,37.298,-120.482
+Santa Nella,Santa Nella,CA,37.101,-121.015
+Salinas,Salinas,CA,36.68,-121.641
+Seaside,Seaside,CA,36.606,-121.859
+Gilroy,Gilroy,CA,37.024,-121.564
+Turlock,Turlock,CA,37.52,-120.882
+Ceres,Ceres,CA,37.58,-120.939
+Morgan Hill,Morgan Hill,CA,37.153,-121.655
+Modesto III,Modesto,CA,37.689,-120.959
+Modesto,Modesto,CA,37.669,-121.036
+Modesto,Modesto,CA,37.7,-121.068
+San Jose (Cottle Road),San Jose,CA,37.25,-121.804
+San Jose (Santa Teresa Blvd.),San Jose,CA,37.249,-121.859
+San Jose (Capitol & Tully),San Jose,CA,37.33,-121.811
+Manteca,Manteca,CA,37.797,-121.192
+San Jose,San Jose,CA,37.35,-121.922
+Lathrop,Lathrop,CA,37.811,-121.298
+Milpitas,Milpitas,CA,37.426,-121.922
+Santa Clara,Santa Clara,CA,37.388,-121.982
+Sunnyvale,Sunnyvale,CA,37.361,-122.025
+Tracy,Tracy,CA,37.762,-121.434
+Mountain View (El Camino Real & Grant),Mountain View,CA,37.38,-122.074
+Fremont,Fremont,CA,37.504,-121.974
+Mountain View (Rengstorff),Mountain View,CA,37.421,-122.093
+Livermore,Livermore,CA,37.699,-121.773
+Stockton,Stockton,CA,37.997,-121.314
+Stockton,Stockton,CA,37.985,-121.346
+Pleasanton,Pleasanton,CA,37.7,-121.908
+Union City,Union City,CA,37.599,-122.066
+Redwood City,Redwood City,CA,37.491,-122.228
+Hayward,Hayward,CA,37.651,-122.068
+San Carlos,San Carlos,CA,37.513,-122.259
+Lodi,Lodi,CA,38.116,-121.308
+San Ramon,San Ramon,CA,37.779,-121.977
+St. George,St. George,UT,37.032,-113.606
+Buckeye,Buckeye,AZ,33.468,-112.504
+San Leandro,San Leandro,CA,37.687,-122.131
+Brentwood,Brentwood,CA,37.961,-121.748
+Prescott,Prescott,AZ,34.553,-112.409
+Surprise II,Surprise,AZ,33.596,-112.412
+Millbrae,Millbrae,CA,37.601,-122.382
+Surprise,Surprise,AZ,33.638,-112.368
+Pittsburg,Pittsburg,CA,38.005,-121.836
+Washington City,Washington City,UT,37.128,-113.523
+Avondale,Avondale,AZ,33.459,-112.34
+Alameda,Alameda,CA,37.784,-122.277
+Peoria,Peoria,AZ,33.714,-112.272
+Daly City,Daly City,CA,37.666,-122.469
+Pleasant Hill,Pleasant Hill,CA,37.976,-122.066
+Daly City,Daly City,CA,37.688,-122.472
+Phoenix (Camelback),Phoenix,AZ,33.508,-112.266
+Peoria,Peoria,AZ,33.638,-112.233
+Elk Grove II,Elk Grove,CA,38.409,-121.413
+San Francisco,San Francisco,CA,37.808,-122.419
+Elk Grove,Elk Grove,CA,38.424,-121.391
+Phoenix (Carefree Hwy),Phoenix,AZ,33.8,-112.13
+Phoenix,Phoenix,AZ,33.378,-112.187
+Phoenix (27th Ave.),Phoenix,AZ,33.662,-112.117
+Phoenix (Metro Square),Phoenix,AZ,33.582,-112.12
+Placerville,Placerville,CA,38.72,-120.833
+Pinole,Pinole,CA,37.989,-122.311
+Sacramento,Sacramento,CA,38.465,-121.493
+Folsom,Folsom,CA,38.647,-121.114
+Mill Valley,Mill Valley,CA,37.897,-122.516
+Rancho Cordova,Rancho Cordova,CA,38.615,-121.269
+Phoenix,Phoenix,AZ,33.507,-112.039
+Vallejo,Vallejo,CA,38.125,-122.228
+Carson Valley,Carson City,NV,39.109,-119.775
+Fairfield,Fairfield,CA,38.257,-122.065
+Sacramento,Sacramento,CA,38.598,-121.419
+Desert Ridge,Phoenix,AZ,33.679,-111.977
+Paradise Valley,Phoenix,AZ,33.599,-111.98
+Sacramento (Madison),Sacramento,CA,38.66,-121.357
+Vacaville,Vacaville,CA,38.367,-121.961
+Tempe,Tempe,AZ,33.378,-111.974
+West Sacramento,West Sacramento,CA,38.592,-121.55
+Scottsdale,Scottsdale,AZ,33.636,-111.92
+Chandler (Ray Rd.),Chandler,AZ,33.32,-111.964
+Sacramento (Truxel),Sacramento,CA,38.637,-121.504
+Tempe,Tempe,AZ,33.435,-111.925
+Roseville (Taylor Rd.),Roseville,CA,38.758,-121.26
+Davis,Davis,CA,38.541,-121.737
+Sacramento (Del Paso),Sacramento,CA,38.655,-121.526
+Rocklin,Rocklin,CA,38.802,-121.204
+Roseville (Fairway Dr.),Roseville,CA,38.79,-121.283
+Novato,Novato,CA,38.09,-122.555
+Napa,Napa,CA,38.281,-122.276
+Chandler (Chandler & Price),Chandler,AZ,33.306,-111.892
+Mesa (Alma School Rd.),Mesa,AZ,33.39,-111.858
+Auburn,Auburn,CA,38.901,-121.075
+Mesa,Mesa,AZ,33.383,-111.806
+Woodland,Woodland,CA,38.67,-121.728
+Lincoln,Lincoln,CA,38.873,-121.304
+Chandler (Germann & Gilbert),Chandler,AZ,33.281,-111.79
+Gilbert,Gilbert,AZ,33.306,-111.743
+Mesa,Mesa,AZ,33.474,-111.702
+Petaluma,Petaluma,CA,38.235,-122.621
+Mesa,Mesa,AZ,33.327,-111.686
+Flagstaff,Flagstaff,AZ,35.182,-111.661
+Reno,Reno,NV,39.452,-119.777
+Queen Creek,Queen Creek,AZ,33.259,-111.64
+Mesa,Mesa,AZ,33.382,-111.6
+Casa Grande,Casa Grande,AZ,32.88,-111.682
+Sparks,Sparks,NV,39.536,-119.753
+Rohnert Park,Rohnert Park,CA,38.361,-122.714
+Reno II,Reno,NV,39.529,-119.828
+Santa Rosa,Santa Rosa,CA,38.415,-122.713
+Santa Rosa,Santa Rosa,CA,38.461,-122.725
+Yuba City,Yuba City,CA,39.136,-121.635
+Marana,Marana,AZ,32.355,-111.093
+Oro Valley,Oro Valley,AZ,32.415,-110.939
+Tucson,Tucson,AZ,32.29,-110.978
+Chico,Chico,CA,39.724,-121.807
+Tucson,Tucson,AZ,32.163,-110.988
+Tucson,Tucson,AZ,32.178,-110.943
+Tucson (Broadway),Tucson,AZ,32.222,-110.914
+Tucson,Tucson,AZ,32.222,-110.84
+Ukiah,Ukiah,CA,39.169,-123.211
+Redding,Redding,CA,40.538,-122.349
+Redding,Redding,CA,40.585,-122.348
+Spanish Fork,Spanish Fork,UT,40.121,-111.641
+Orem,Orem,UT,40.273,-111.687
+American Fork,American Fork,UT,40.376,-111.815
+Riverton,Riverton,UT,40.523,-111.985
+Draper,Draper,UT,40.529,-111.889
+Eureka,Eureka,CA,40.784,-124.183
+West Jordan,West Jordan,UT,40.61,-111.986
+Midvale,Midvale,UT,40.62,-111.857
+West Valley City,West Valley City,UT,40.691,-111.958
+South Salt Lake,South Salt Lake,UT,40.725,-111.89
+Centerville,Centerville,UT,40.922,-111.889
+Layton,Layton,UT,41.089,-111.988
+Riverdale,Riverdale,UT,41.191,-111.98
+Twin Falls,Twin Falls,ID,42.597,-114.456
+Medford,Medford,OR,42.346,-122.88
+Logan,Logan,UT,41.739,-111.835
+Grants Pass,Grants Pass,OR,42.462,-123.321
+Nampa,Nampa,ID,43.609,-116.593
+Boise,Boise,ID,43.606,-116.278
+Meridian,Meridian,ID,43.62,-116.351
+Roseburg,Roseburg,OR,43.244,-123.359
+Keizer,Keizer,OR,45.011,-122.995
+Colorado Springs,Colorado Springs,CO,38.896,-104.832
+Colorado Springs,Colorado Springs,CO,38.99,-104.797
+Colorado Springs,Colorado Springs,CO,38.872,-104.716
+Lakewood,Lakewood,CO,39.713,-105.081
+Castle Rock,Castle Rock,CO,39.416,-104.876
+Arvada,Arvada,CO,39.791,-105.081
+Hillsboro,Hillsboro,OR,45.536,-122.864
+Lone Tree,Lone Tree,CO,39.565,-104.882
+Vancouver,Vancouver,WA,45.619,-122.534
+Parker,Parker,CO,39.544,-104.772
+Thornton,Thornton,CO,39.944,-104.984
+Denver,Denver,CO,39.78,-104.883
+Aurora,Aurora,CO,39.711,-104.824
+Longmont,Longmont,CO,40.152,-105.085
+Ridgefield,Ridgefield,WA,45.818,-122.689
+Brighton,Brighton,CO,39.957,-104.774
+Loveland,Loveland,CO,40.408,-105.008
+Timnath,Timnath,CO,40.519,-104.991
+San Antonio,San Antonio,TX,29.495,-98.709
+San Antonio,San Antonio,TX,29.648,-98.45
+Fort Worth (Lake Worth),Fort Worth,TX,32.807,-97.425
+Fort Worth (Hulen),Fort Worth,TX,32.68,-97.395
+Windcrest,Windcrest,TX,29.511,-98.397
+Fort Worth,Fort Worth,TX,32.751,-97.359
+Fort Worth,Fort Worth,TX,32.899,-97.322
+Fort Worth,Fort Worth,TX,33.026,-97.287
+Killeen,Killeen,TX,31.09,-97.721
+Denton,Denton,TX,33.229,-97.171
+Hurst,Hurst,TX,32.84,-97.185
+Cedar Park,Cedar Park,TX,30.525,-97.821
+New Braunfels,New Braunfels,TX,29.73,-98.079
+Grapevine,Grapevine,TX,32.927,-97.087
+Arlington,Arlington,TX,32.678,-97.123
+Mansfield,Mansfield,TX,32.582,-97.135
+Round Rock,Round Rock,TX,30.562,-97.691
+Austin,Austin,TX,30.239,-97.789
+San Marcos,San Marcos,TX,29.892,-97.915
+Austin,Austin,TX,30.292,-97.742
+Austin,Austin,TX,30.304,-97.716
+Austin,Austin,TX,30.405,-97.674
+Irving,Irving,TX,32.897,-96.96
+Pflugerville,Pflugerville,TX,30.464,-97.597
+The Colony,The Colony,TX,33.071,-96.876
+Frisco,Frisco,TX,33.102,-96.805
+Dallas (Midway),Dallas,TX,32.924,-96.839
+Dallas (Addison),Dallas,TX,32.957,-96.821
+Dallas,Dallas,TX,32.829,-96.844
+Waco,Waco,TX,31.551,-97.124
+Dallas,Dallas,TX,32.925,-96.771
+Dallas,Dallas,TX,32.86,-96.769
+Lancaster,Lancaster,TX,32.597,-96.822
+Plano,Plano,TX,33.035,-96.705
+Allen,Allen,TX,33.129,-96.653
+Garland,Garland,TX,32.954,-96.618
+Rockwall,Rockwall,TX,32.909,-96.448
+Cypress,Cypress,TX,29.991,-95.743
+Katy,Katy,TX,29.787,-95.801
+Houston,Houston,TX,29.963,-95.543
+The Woodlands,The Woodlands,TX,30.166,-95.46
+Stafford,Stafford,TX,29.638,-95.58
+Webster,Webster,TX,29.553,-95.15
+Franklin,Franklin,TN,35.859,-86.842
+Madison,Madison,TN,36.301,-86.696
+Antioch,Antioch,TN,36.037,-86.653
+Murfreesboro,Murfreesboro,TN,35.86,-86.441
+Lebanon,Lebanon,TN,36.187,-86.326
