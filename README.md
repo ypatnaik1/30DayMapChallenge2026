@@ -1,13 +1,18 @@
 My name is Yogi Patnaik and this is my attempt at the 30 Day Map Challenge.
 
-### Day 1 - Points
-**In-N-Out Locations Across the United States**
 
-### Day 2 — Lines
+## [Day 1 - Points](./Day%201%20-%20Points/)
 
+### In-N-Out Locations Across the United States
 
-### Day 3 — Polygons
-**Countries I've Visited**
+## [Day 2 — Lines](./Day%202%20-%20Lines/)
+
+### Nonstop Flights from John Wayne Airport (SNA)
+
+## Day 3 — Polygons
+
+### Countries I've Visited
+
 
 
 ### Day 4 — Clusters
