@@ -9,9 +9,6 @@ My name is Yogi Patnaik and this is my attempt at the 30 Day Map Challenge.
 ### Day 3 — Polygons
 **Countries I've Visited**
 
-![Countries Visited](maps/day03_polygons.png)
-
----
 
 ### Day 4 — Clusters
 
