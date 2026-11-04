@@ -1,0 +1,72 @@
+origin,destination,destination_city,airline,seasonal
+SNA,ATW,Appleton,Allegiant,True
+SNA,ATL,Atlanta,Delta,False
+SNA,AUS,Austin,Allegiant,True
+SNA,AUS,Austin,Southwest,False
+SNA,BOI,Boise,Alaska,False
+SNA,BOI,Boise,Allegiant,False
+SNA,SJD,Cabo San Lucas,Southwest,False
+SNA,YYC,Calgary,WestJet,False
+SNA,CLT,Charlotte,American,False
+SNA,ORD,Chicago,American,False
+SNA,ORD,Chicago,United,False
+SNA,CVG,Cincinnati,Allegiant,True
+SNA,CVG,Cincinnati,Breeze,True
+SNA,COS,Colorado Springs,Allegiant,True
+SNA,CMH,Columbus,Breeze,True
+SNA,DFW,Dallas/Fort Worth,American,False
+SNA,DFW,Dallas/Fort Worth,Frontier,True
+SNA,DAL,Dallas Love Field,Southwest,False
+SNA,DEN,Denver,Frontier,False
+SNA,DEN,Denver,Southwest,False
+SNA,DEN,Denver,United,False
+SNA,DSM,Des Moines,Allegiant,False
+SNA,DTW,Detroit,Delta,False
+SNA,IAD,Washington Dulles,United,False
+SNA,EUG,Eugene,Allegiant,False
+SNA,GRR,Grand Rapids,Allegiant,True
+SNA,IAH,Houston Intercontinental,United,False
+SNA,IDA,Idaho Falls,Allegiant,False
+SNA,LAS,Las Vegas,Delta,False
+SNA,LAS,Las Vegas,Frontier,False
+SNA,LAS,Las Vegas,JSX,False
+SNA,LAS,Las Vegas,Southwest,False
+SNA,LAS,Las Vegas,Breeze,False
+SNA,MFR,Medford,Allegiant,False
+SNA,AZA,Mesa,Allegiant,False
+SNA,MSP,Minneapolis/St. Paul,Delta,False
+SNA,MSO,Missoula,Allegiant,True
+SNA,MRY,Monterey,JSX,True
+SNA,APC,Napa County,JSX,True
+SNA,JFK,New York JFK,American,False
+SNA,JFK,New York JFK,Delta,False
+SNA,EWR,Newark,United,False
+SNA,OAK,Oakland,Southwest,False
+SNA,OGD,Ogden,Breeze,True
+SNA,MCO,Orlando,Breeze,True
+SNA,PSC,Pasco,Allegiant,False
+SNA,PHX,Phoenix,American,False
+SNA,PHX,Phoenix,Frontier,False
+SNA,PHX,Phoenix,Southwest,False
+SNA,PIT,Pittsburgh,Breeze,True
+SNA,PDX,Portland,Alaska,False
+SNA,PVU,Provo,Allegiant,False
+SNA,PVU,Provo,Breeze,False
+SNA,PVR,Puerto Vallarta,Southwest,False
+SNA,RDU,Raleigh-Durham,Breeze,True
+SNA,RNO,Reno,JSX,False
+SNA,SMF,Sacramento,Southwest,False
+SNA,SLC,Salt Lake City,Delta,False
+SNA,SFO,San Francisco,Alaska,False
+SNA,SFO,San Francisco,Frontier,True
+SNA,SFO,San Francisco,United,False
+SNA,SJC,San Jose,Southwest,False
+SNA,STS,Santa Rosa/Sonoma,Alaska,False
+SNA,SCF,Scottsdale,JSX,False
+SNA,SEA,Seattle Tacoma,Alaska,False
+SNA,SEA,Seattle Tacoma,Delta,False
+SNA,PAE,Paine Field,Alaska,False
+SNA,GEG,Spokane,Allegiant,True
+SNA,GEG,Spokane,Alaska,False
+SNA,TUS,Tucson,Alaska,True
+SNA,YVR,Vancouver,Air Canada,False
