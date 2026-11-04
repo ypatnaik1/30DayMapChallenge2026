@@ -20,7 +20,7 @@ A map visualizing the geographic distribution of In-N-Out Burger locations acros
 
 An interactive map showing nonstop flight connections from John Wayne Airport in Orange County, California. Features geodesic flight paths and the ability to filter routes by airline.
 
-[Data](./Day%202%20-%20Lines/) | [Explore Interactive Map](https://ypatnaik1.github.io/30DayMapChallenge/Day%202%20-%20Lines/NonstopFromSNA.html)
+[Data](./Day%202%20-%20Lines/) | [Explore Interactive Map](https://ypatnaik1.github.io/30DayMapChallenge2026/Day%202%20-%20Lines/NonstopFromSNA.html)
 
 ## Day 3 — Polygons
 
